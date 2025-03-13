@@ -1,0 +1,13 @@
+# for test
+index.html
+index.js
+
+# the project folders and files
+node_modules/
+dist/
+yarn.lock
+validatorjs*.tgz
+
+# ide and code editor files and folders
+.idea/
+.vscode/

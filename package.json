@@ -1,0 +1,26 @@
+{
+  "name": "@xqdt/validatorjs",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "The light and simple library for validating form",
+  "version": "0.0.1",
+  "author": {
+    "name": "xqdt",
+    "email": "rashupkintimurv@gmail.com"
+  },
+  "license": "MIT",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "main": "dist/validator.js",
+  "browser": "dist/validator.min.js",
+  "types": "dist/validator.d.ts",
+  "scripts": {
+    "build": "yarn tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
