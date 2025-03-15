@@ -4,7 +4,16 @@
     "access": "public"
   },
   "description": "The light and simple library for validating form",
-  "version": "0.0.2",
+  "keywords": [
+    "validator",
+    "validate",
+    "valid",
+    "pattern",
+    "form-validation",
+    "email-validation",
+    "regex"
+  ],
+  "version": "0.0.3",
   "author": {
     "name": "xqdt",
     "email": "rashupkintimurv@gmail.com"
